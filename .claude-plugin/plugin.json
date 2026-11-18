@@ -1,0 +1,11 @@
+{
+  "name": "fireteam",
+  "version": "1.0.0",
+  "description": "Fire Team: a gated six-stage spec, TDD implementation, SOLID review, spec reconciliation and retrospective pipeline for Claude Code.",
+  "author": {
+    "name": "Tom Adams"
+  },
+  "repository": "https://github.com/tadams1138/claude-plugin-fireteam",
+  "license": "MIT",
+  "keywords": ["bdd", "tdd", "gherkin", "solid", "code-review", "pipeline", "agents"]
+}
