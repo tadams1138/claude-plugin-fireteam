@@ -1,5 +1,9 @@
 # Fire Team
 
+> **Moved.** This plugin now lives in
+> [tadams1138/claude-plugins](https://github.com/tadams1138/claude-plugins) under `plugins/fireteam`.
+> This repository is archived.
+
 A Claude Code plugin that runs a gated, six-stage development pipeline for a single
 feature: specification, test-first implementation, design review, refactoring,
 specification reconciliation and a retrospective of the run itself.
